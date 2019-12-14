@@ -17,65 +17,12 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-}
-
-header {
-    background-color: #333333;
-    position: fixed;
-    width: 100%;
-    z-index: 5;
-}
-
-nav {
-  margin: 0;
-  padding: 20px 0;
-}
-
-nav li {
-  color: #fff;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-  font-size: 20px;
-  display: inline-block;
-  width: 100px;
 }
 
 .image {
     height: 400px;
 }
 
-.header {
-    text-align: center;
-    background-color: #fcf2dc;
-    position: relative;
-    top: 100px;
-}
-
-h1 {
-    color: skyblue;
-    font-size: 60px;
-    margin: 40px;
-    letter-spacing: 0.05em;
-}
-
-.subtitle {
-    color: gray;
-    font-size: 30px;
-    font-family: 'Yeon Sung', cursive;
-    padding: 5px;
-}
-
-p.ys {
-    color: #fc8bd3;
-    font-size: 25px;
-}
-
-body {
-    font-family: 'Nanum Gothic', sans-serif;
-    font-size: 15px;
-    line-height: 2.0em;
-}
 
 .pa {
     font-family: 'Pacifico', cursive;
