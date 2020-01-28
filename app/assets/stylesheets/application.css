@@ -14,9 +14,18 @@
  *= require_self
  */
 
-* {
-    margin: 0;
-    padding: 0;
+.btn-outline-success:hover {
+    color: #fff !important;
+    background-color: #b3b3ff !important;
+}
+
+.btn-outline-success {
+    color: #b3b3ff !important;
+    border-color: #b3b3ff !important;
+}
+
+.header {
+    margin-top: 30px;
 }
 
 .image {
@@ -24,19 +33,3 @@
 }
 
 
-.pa {
-    font-family: 'Pacifico', cursive;
-}
-
-
-.fo {
-    font-family: 'Fredoka One', cursive;
-}
-
-.ys {
-    font-family: 'Yeon Sung', cursive;
-}
-
-.ng {
-    font-family: 'Nanum Gothic', sans-serif;
-}
